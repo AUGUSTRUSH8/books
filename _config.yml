@@ -1,11 +1,11 @@
 permalink: /:year/:month/:day/:title.html
 paginate: 10
-markdown: redcarpet
+# markdown: redcarpet
 
 # 作者信息
 author: 
-  name: 捡代码论坛
-  email: 
+  name: August Rush
+  email: th18435133349@gmail.com
   link: http://bbs.jiandaima.com/
   weibo: http://bbs.jiandaima.com/
   github: http://github.com/jiandaima
@@ -13,36 +13,17 @@ author:
   linkedin: http://bbs.jiandaima.com/
 
 # 站点信息
-title: 源码分享博客
-description: 专注于棋牌游戏源码下载，手机游戏源码下载，网页游戏源码下载，unity3d游戏源码下载，android应用源码下载，力图做最好的游戏源码下载网站！
-url: jiandaima.github.io
+title: August Rush的书架
+description: 记录读过的书和感受
+url: books.augustrush8.com
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
 gavatar: /public/img/deer3.png
 favicon: /public/img/deer3.png
 
-# google analytics 设置
-ga:
-  id: UA-54262064-1 
-  url: http://bbs.jiandaima.com/
-
-# 百度统计 设置
-baidu:
-  id: 87e34a74512be24fc04c366c483aea8b
-  url: http://bbs.jiandaima.com/
-
-# disqus 设置
-disqus:
-  shortname: painterlin
-
 # 主题设置，自动激活某个标签
 active: 读书
-
-# 首页除了最新文章外显示分类
-cates: 
-  - Optimization
-  - LaTeX
 
 # 中文本地化
 locals:
