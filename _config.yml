@@ -1,50 +1,52 @@
-# Site settings
-title: 闫肃的博客
-email: suyan0830@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
-rss_url: /pages/feed.xml
-author: Su Yan
-
-# Sidebar filter
-# Choose 'tag' or 'category' as filter in sidebar.
-filter: 'category'
-recent_num: 20
-
-# Social account
-twitter: suyan404
-weibo: suyan0830
-github: suyan
-instagram: suyan404
-linkedin: suyan404
-
-# avatar and Favicon
-avatar: http://imgs.yansu.org/site-avatar.png
-favicon: http://imgs.yansu.org/site-favicon.ico
-
-# disqus config
-# disqus:
-#  shortname: suyan-zh
-
-# google analytics config
-# ga:
-#  id: UA-54767140-1
-#  url: yansu.org
-
-# Build settings
 permalink: /:year/:month/:day/:title.html
-markdown: kramdown
-highlighter: rouge
-mathjax: disabled
-sass:
-  style: compressed
+paginate: 10
+markdown: redcarpet
 
-# Jekyll Plugin
-# https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
-gems:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
+# 作者信息
+author: 
+  name: 捡代码论坛
+  email: 
+  link: http://bbs.jiandaima.com/
+  weibo: http://bbs.jiandaima.com/
+  github: http://github.com/jiandaima
+  music: http://bbs.jiandaima.com/
+  linkedin: http://bbs.jiandaima.com/
 
+# 站点信息
+title: 源码分享博客
+description: 专注于棋牌游戏源码下载，手机游戏源码下载，网页游戏源码下载，unity3d游戏源码下载，android应用源码下载，力图做最好的游戏源码下载网站！
+url: jiandaima.github.io
+rss_url: /pages/atom.xml
+
+# gavatar头像及Favicon
+gavatar: /public/img/deer3.png
+favicon: /public/img/deer3.png
+
+# google analytics 设置
+ga:
+  id: UA-54262064-1 
+  url: http://bbs.jiandaima.com/
+
+# 百度统计 设置
+baidu:
+  id: 87e34a74512be24fc04c366c483aea8b
+  url: http://bbs.jiandaima.com/
+
+# disqus 设置
+disqus:
+  shortname: painterlin
+
+# 主题设置，自动激活某个标签
+active: 读书
+
+# 首页除了最新文章外显示分类
+cates: 
+  - Optimization
+  - LaTeX
+
+# 中文本地化
+locals:
+  tags: 标签
+  about: 关于
+  newest: 最新文章
+  archive: 归档
