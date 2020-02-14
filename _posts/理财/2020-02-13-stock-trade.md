@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 股票入门
-category: 读书
+category: 理财
 keywords: 股票，入门
 ---
 
