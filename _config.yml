@@ -19,8 +19,8 @@ url: books.augustrush8.com
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: /public/img/deer3.png
-favicon: /public/img/deer3.png
+gavatar: /public/img/booksicon.jpg
+favicon: /public/img/booksicon.jpg
 
 # 主题设置，自动激活某个标签
 active: 读书
