@@ -6,11 +6,7 @@ markdown: Kramdown
 author: 
   name: August Rush
   email: th18435133349@gmail.com
-  link: https://augustrush8.com/
-  weibo: http://bbs.jiandaima.com/
-  github: http://github.com/jiandaima
-  music: http://bbs.jiandaima.com/
-  linkedin: http://bbs.jiandaima.com/
+  link: https://books.augustrush8.com/
 
 # 站点信息
 title: August Rush的书架
@@ -19,8 +15,8 @@ url: books.augustrush8.com
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: /public/img/booksicon.jpg
-favicon: /public/img/booksicon.jpg
+gavatar: /public/img/booksicon.png
+favicon: /public/img/booksicon.png
 
 # 主题设置，自动激活某个标签
 active: 读书
