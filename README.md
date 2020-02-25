@@ -1,4 +1,1 @@
-button属性修改在bootstrap.css里面
-button显示修改在-include/footer.html和base.js里面
-
-书籍阅读分享
+分享读书笔记、投资理财等非技术面上的东西，力求探索一些生命的意义，手动滑稽:wink:，和让身心愉悦的事情,主要关注于读书笔记和投资理财方面,欢迎关注star
