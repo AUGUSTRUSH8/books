@@ -10,10 +10,10 @@ titlename: 关于
 
 ### 关于作者
 
-我目前从事 IT 行业。喜爱阅读、美食、电影和一切美的事物，也喜欢哲学、运动和历史。我是一个具有 INFP 性格的人。
+我目前从事 IT 行业。喜爱阅读、美食、电影和一切美的事物，也喜欢哲学、运动和历史。我是一个具有 [INFP](http://www.personalitypage.com/INFP.html) 性格的人。
 
 ### 关于本站主题
 
-本站使用 GitHub Page 和 Jekyll 进行搭建，如果你喜欢这个博客，可以 Fork 我的[源代码](https://github.com/AUGUSTRUSH8/AugustRush8.github.io)进行修改。
+本站使用 GitHub Page 和 Jekyll 进行搭建，如果你喜欢这个博客，可以 Fork 我的[源代码](https://github.com/AUGUSTRUSH8/books)进行修改。
 
 
