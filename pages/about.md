@@ -16,4 +16,9 @@ titlename: 关于
 
 本站使用 GitHub Page 和 Jekyll 进行搭建，如果你喜欢这个博客，可以 Fork 我的[源代码](https://github.com/AUGUSTRUSH8/books)进行修改。
 
+## 更加了解我
 
+- 我在[简书](https://www.jianshu.com/u/610a52a4981b)上分享了我在生活和学习方面的零散记录，在 [GitHub](https://github.com/AUGUSTRUSH8) 上维护我的代码以及关注开源项目，在[bilibili](https://space.bilibili.com/211264133)上收藏关注了一些我感兴趣的视频或频道，在[云音乐](https://music.163.com/#/user/home?id=1317013235)上收藏了一些我喜欢的音乐和艺人。
+- 关注我的公众号：野生技术汇
+
+![](http://image.augustrush8.com/images/mpqrcode.jpg)
