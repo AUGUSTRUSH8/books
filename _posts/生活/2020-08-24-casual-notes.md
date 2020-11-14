@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 生活随记
-category: 读书
+category: 生活
 tags: 随感
 keywords: 
 description: 
