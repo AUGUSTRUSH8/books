@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [搬运]定投策略实验
+title: 定投策略实验
 category: 理财
 keywords: 定投
 ---
